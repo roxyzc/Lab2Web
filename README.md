@@ -8,4 +8,4 @@
 
 ### Gambar 2
 
-<img src="./img2.png" style="margin: auto; width:250px;>
+<img src="./img2.png" style="margin: auto; width:250px;"><br><br>
