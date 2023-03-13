@@ -4,11 +4,15 @@
 
 ### Gambar 1
 
-<img src="./img/img1.png" style="margin: auto; width:250px;"><br><br>
+<img src="./img/img1.png" style="margin: auto; width:150px;"><br><br>
 
 ### Gambar 2
 
-<img src="./img/img2.png" style="margin: auto; width:250px;"><br><br>
+<img src="./img/img2.png" style="margin: auto; width:150px;"><br><br>
+
+### Gambar 3
+
+<img src="./img/img3.png" style="margin: auto; width:150px;"><br><br>
 
 ## PENJELASAN
 
