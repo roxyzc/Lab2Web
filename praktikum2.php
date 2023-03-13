@@ -25,7 +25,7 @@
     <?php
 
     if (isset($_POST["submit"])) {
-        echo '<h1>Hasil</h1>';
+        echo '<h2>Hasil</h2>';
         echo 'Selamat Datang ' . $_POST['nama'] . '<br>';
         echo 'Tanggal :' . $_POST["tanggal"] . '<br>';
         echo 'Pekerjaan :' . $_POST["pekerjaan"] . '<br>';
