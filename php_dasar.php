@@ -9,7 +9,7 @@
 <body>
     <h1>Belajar PHP Dasar</h1>
     <?php
-    echo "Hello World";
+    echo "Hello World<br>";
 
     $nim = "3121101169";
     $nama = "roxyzc";
